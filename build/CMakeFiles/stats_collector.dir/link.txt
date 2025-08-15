@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/stats_collector.dir/apps/stats_collector.cpp.o -o stats_collector  liblogging.a -lpthread 

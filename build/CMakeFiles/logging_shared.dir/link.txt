@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,liblogging.so -o liblogging.so CMakeFiles/logging_shared.dir/src/logger.cpp.o 

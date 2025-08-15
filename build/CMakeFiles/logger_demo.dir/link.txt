@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/logger_demo.dir/apps/logger_demo.cpp.o -o logger_demo  liblogging.a -lpthread 
