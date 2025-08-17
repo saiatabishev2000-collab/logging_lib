@@ -155,5 +155,5 @@ private:
     bool opened_ = false;
 };
 
-} // namespace logging
+} 
 

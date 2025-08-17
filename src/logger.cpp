@@ -19,5 +19,4 @@ Status create_udp_logger(const UdpInit& init, ILogger** out_logger) {
     return Status::Ok();
 }
 
-} // namespace logging
-
+} 

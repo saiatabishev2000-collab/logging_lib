@@ -47,5 +47,5 @@ struct UdpInit {
 Status create_file_logger(const FileInit& init, ILogger** out_logger); // владение у вызывающего, delete через delete logger
 Status create_udp_logger (const UdpInit&  init, ILogger** out_logger);
 
-} // namespace logging
+} 
 
